@@ -1,0 +1,4 @@
+
+‚python:S1192"cDefine a constant instead of duplicating this literal "SELECT * FROM region WHERE id = %s" 3 times.(¤×µÇ8¯ñ«Ü«1
+Jpython:S5806"+Rename this variable; it shadows a builtin.(ÀÙÃ¾8¯ñ«Ü«1
+hpython:S1854<"IRemove this assignment to local variable 'rate'; the value is never used.(éÎå8ôçýà«1
